@@ -1,3 +1,18 @@
+Helps managing expenses
+
+
+![expenses](https://user-images.githubusercontent.com/100310188/176752812-a126b685-1c19-4220-97b8-2790d2f701e6.png)
+
+
+![expenses1](https://user-images.githubusercontent.com/100310188/176752820-9f1fcad2-8217-4c73-8f84-22f19b11ae61.png)
+
+
+![expenses2](https://user-images.githubusercontent.com/100310188/176752823-e4b6357d-8c2b-4467-9f4f-9836741244c1.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
